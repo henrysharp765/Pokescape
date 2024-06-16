@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PokescapeServer
-build_property.ProjectDir = \\esher.ac.uk\home\Students\2023\232554\Visual Studio 2022\My projects\Pokescape\PokescapeServer\
+build_property.ProjectDir = C:\Users\edcha\Downloads\Pokescape-master (2)\Pokescape-master\PokescapeServer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

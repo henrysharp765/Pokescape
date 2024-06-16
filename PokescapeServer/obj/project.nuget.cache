@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KWOIXqMZW9hRLD8IaiI16YT9XgW0tAnDiiuLK40zlI4U60nOZL8jFRWxwHAI1oHXSRWus77yKtzlQeMh5sBqyQ==",
+  "dgSpecHash": "pS4Bo2atunE=",
   "success": true,
-  "projectFilePath": "\\\\esher.ac.uk\\home\\Students\\2023\\232554\\Visual Studio 2022\\My projects\\Pokescape\\PokescapeServer\\PokescapeServer.csproj",
+  "projectFilePath": "C:\\Users\\edcha\\Downloads\\Pokescape-master (2)\\Pokescape-master\\PokescapeServer\\PokescapeServer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\232554\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\232554\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\232554\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\232554\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+    "C:\\Users\\edcha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

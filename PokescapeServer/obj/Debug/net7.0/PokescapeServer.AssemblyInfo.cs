@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokescapeServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+020f138a3f8ed5410832e11bcb9e458623543f73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eb02b1afa5f2cd7930913237b9d405cadeba4f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokescapeServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokescapeServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
